@@ -4,12 +4,9 @@
 
 ## github stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruyan-hopemucci&layout=compact
-)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haruyan-hopemucci)](https://github.com/anuraghazra/github-readme-stats)
-
-![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haruyan-hopemucci&theme=github)
+[![](https://raw.githubusercontent.com/haruyan-hopemucci/haruyan-hopemucci/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/haruyan-hopemucci/haruyan-hopemucci/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/haruyan-hopemucci/haruyan-hopemucci/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/haruyan-hopemucci/haruyan-hopemucci/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=haruyan-hopemucci&theme=juicyfresh&margin-w=20&margin-h=20&title=Repositories,Issues,Commits,PullRequest,Followers,MultiLanguage)
 
