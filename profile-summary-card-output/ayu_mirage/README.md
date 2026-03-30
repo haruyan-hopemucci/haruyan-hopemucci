@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/haruyan-hopemucci/haruyan-hopemucci/main/profile-summary-card-output/ayu_mirage/4-productive-time.svg)
-```
-
-    
