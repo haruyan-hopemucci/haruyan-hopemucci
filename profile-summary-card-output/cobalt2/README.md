@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/haruyan-hopemucci/haruyan-hopemucci/main/profile-summary-card-output/cobalt2/4-productive-time.svg)
-```
-
-    
